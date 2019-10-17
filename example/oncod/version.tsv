@@ -1,0 +1,33 @@
+#Software
+BNC	1.10.0
+bwa	0.7.15-r1140
+contra	2.0.8
+facets	1.0.1
+GATK	v3.6-0-g89b7209
+NCanno	1.1.3
+NCbamInfo	1.7.0
+NCCNV	0.2
+NCfilter	2.0.0
+NChot	2.5.9
+NCrealSeq	1.2.0
+NCSV	0.2.3
+picard-tools	2.6.0
+realDcaller	1.5.3
+#Database
+annoDB	NCBI Annotation Release 104
+clinVar	20171212
+Cosmic	v80
+dbSNP	147
+EXAC	0.3.1
+gnomAD	r2.0.1
+PAD	2.0
+PhyloP	20131206
+PloyPhen2/SIFT	ensdb v73
+reference Genome	GRCh37
+TGP	phaseIII-ucsc
+#Mutation filter
+HCNV	v0412
+HSNV	v0116
+DCNV	v0412
+DSNV	v0808
+DSV	v0808

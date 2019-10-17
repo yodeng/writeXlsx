@@ -1,0 +1,18 @@
+item,cancer,normal
+Template length,166 SD(-23/+30),193 SD(-44/+104)
+Average sequencing depth on target without duplicated reads,2229,543
+Average sequencing depth on target including duplicated reads,3363,579
+Fraction of effective bases on target (capture efficiency; without duplicated reads),27.93%,58.92%
+Fraction of effective bases on target (capture efficiency; including duplicated reads),27.93%,59.15%
+Mean GC content of reads mapped on target (without duplicated reads),50.31%,49.15%
+Mean GC content of reads mapped on target (with duplicated reads),50.31%,49.13%
+Duplication rate of reads on target,33.72%,6.16%
+Mismatch rate of effective reads on target,0.47%,0.34%
+Mismatch rate of all effective reads,0.55%,0.40%
+Fraction of target covered with >= 20x,99.31%,99.31%
+Fraction of target covered with >= 100x,99.30%,99.23%
+Fraction of target covered with >= 500x,99.03%,60.94%
+Fraction of target covered with >= 0.5 mean depth,94.15%,95.77%
+Fraction of target covered with >= 1.0 mean depth,53.75%,52.57%
+Contamination Ratio,0.0245%,0.0022%
+Sample Pair Check,Yes,Yes

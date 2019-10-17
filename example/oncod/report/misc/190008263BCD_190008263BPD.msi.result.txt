@@ -1,0 +1,6 @@
+Iterms	Values	Values05
+Position	190008263BCD_190008263BPD	190008263BCD_190008263BPD
+check_markers	824	399
+unstable_loci	3	3
+msing_score	0.003600	0.007500
+msi status	MSS	MSS

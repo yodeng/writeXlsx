@@ -1,0 +1,88 @@
+[version]
+[[row]]
+bold_header = 0
+auto_filter = 0
+
+[SmallVariations]
+[[row]]
+even_line_color = 
+
+[[column]]
+title	width	hidden	level	collapsed
+"caseAltTag"	15	1	1	0
+"caseSomTag"	15	1	1	0
+"PoTSampleFre"	15	1	1	0
+"PoTAFM"	15	1	1	0
+"Cosmic"	15	1	1	0
+"Histology"	15	1	1	0
+"Cosmic MutName"	15	1	1	0
+"Cosmic MutStat"	15	1	1	0
+"Cosmic Site"	15	1	1	0
+"PhyloP Placental Mammals"	15	1	1	0
+"PhyloP Primates"	15	1	1	0
+"PhyloP Vertebrates"	15	1	1	0
+"Ens SIFT Score"	15	1	1	0
+"Ens Polyphen2HumVar Score"	15	1	1	0
+"Ens Polyphen2HumDiv Score"	15	1	1	0
+"Protein"	15	1	1	0
+"EntrezGeneID"	15	1	1	0
+"FuncRegion"	15	1	1	0
+"Flank"	15	1	1	0
+"VarType"	15	1	1	0
+"caseA"	15	1	1	0
+"caseC"	15	1	1	0
+"caseG"	15	1	1	0
+"caseT"	15	1	1	0
+"caseN"	15	1	1	0
+"caseRawDep"	15	1	1	0
+"caseEffeReadsRate"	15	1	1	0
+"caseGoodReadsRate"	15	1	1	0
+"caseIndelAround"	15	1	1	0
+"caseMultiAllelic"	15	1	1	0
+"caseAltFisherStrand"	15	1	1	0
+"caseAltStrandOddsRatio"	15	1	1	0
+"caseAltMedian"	15	1	1	0
+"caseAltMadD2E"	15	1	1	0
+"caseAltMapQ rankSum"	15	1	1	0
+"caseAltBaseQ rankSum"	15	1	1	0
+"caseRefAltInsertSize"	15	1	1	0
+"caseCNV ctrlAltFRReads"	15	1	1	0
+"ctrlAltDep"	15	1	1	0
+"ctrlDep"	15	1	1	0
+"ctrlAltAF"	15	1	1	0
+"ctrlNRate"	15	1	1	0
+"ctrlFisherStrand"	15	1	1	0
+"ctrlIndelAround"	15	1	1	0
+"ctrlMutAround"	15	1	1	0
+"ctrlMadD2E"	15	1	1	0
+"ccMutROR"	15	1	1	0
+"ccMQRST"	15	1	1	0
+"ccBQRST"	15	1	1	0
+"caseAltInCtrl"	15	1	1	0
+"1000G AF"	15	1	1	0
+"1000G EAS AF"	15	1	1	0
+"ExAC AF"	15	1	1	0
+"ExAC AC"	15	1	1	0
+"ExAC EAS AC"	15	1	1	0
+"ExAC EAS AF"	15	1	1	0
+"ExAC EAS HomoAlt Count"	15	1	1	0
+"ExAC Filter"	15	1	1	0
+"ExAC HomoAl Count"	15	1	1	0
+"ClinVar ID"	15	1	1	0
+"ClinVar RevStat"	15	1	1	0
+"ClinVar Significant"	15	1	1	0
+"ClinVar SuspectReason"	15	1	1	0
+"GAD AC"	15	1	1	0
+"GAD AF"	15	1	1	0
+"GAD EAS AC"	15	1	1	0
+"GAD EAS AF"	15	1	1	0
+"GAD EAS HomoAlt Count"	15	1	1	0
+"GAD HomoAlt Count"	15	1	1	0
+"vcfPos"	15	1	1	0
+"vcfRef"	15	1	1	0
+"vcfCaseAlt"	15	1	1	0
+"vcfCtrlAlt"	15	1	1	0
+"caseCorrAF"	15	1	1	0
+"caseCorrAltDep"	15	1	1	0
+"caseCorrDep"	15	1	1	0
+"AutoInterpStatus"	15	1	1	0

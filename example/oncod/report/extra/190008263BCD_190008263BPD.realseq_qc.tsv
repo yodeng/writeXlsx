@@ -1,0 +1,11 @@
+SM_NAME	cancer	Sample name
+ALL_RD	42872563	Reads count (on target)
+ALL_CL	28023976	Clusters count (on target)
+PCT_PRD	0.280870145319	Pair reads/All reads (1+1)
+PCT_PCL	0.160021547264	Pair clusters/All clusters (1+1)
+PCT_EFF	0.104599298157	Pair clusters/All reads (effective rates)
+PCT_MRD	0.5848495925	Muti reads/All reads (2+0)
+PCT_MCL	0.364880914828	Muti clusters/All clusters (2+0)
+PCT_GRD	0.16784704474	Good support reads/All reads (2+1)
+PCT_GCL	0.0735671840427	Good support clusters/All clusters (2+1)
+PEAK_FAM	1	Peak Family

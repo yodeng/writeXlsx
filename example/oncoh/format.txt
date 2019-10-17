@@ -1,0 +1,124 @@
+[version]
+[[row]]
+bold_header = 0
+auto_filter = 0
+
+[Drug]
+[[row]]
+even_line_color = #87CEEB
+
+[norm_cnv]
+[[row]]
+even_line_color = #ADD8E6
+
+[norm_sv]
+[[row]]
+even_line_color = #98FB98
+
+[geneInfo]
+[[row]]
+even_line_color = #F0E68C
+
+[hla]
+[[row]]
+even_line_color = #7FFFD4
+
+
+[SmallVariations]
+[[row]]
+single_line_color = #90EE90
+
+[[column]]
+title	width	hidden	level	collapsed
+"inReport"	15	0	0	1
+"Chr"	10	1	1	0
+"Start"	10	1	1	0
+"Stop"	10	1	1	0
+"MapLoc"	8	1	1	0
+"NbGID"	10	1	1	0
+"Ref"	6	1	1	0
+"VarType"	6	1	1	0
+"Call"	6	1	1	0
+"Flank"	8	1	1	0
+"Zygosity"	8	0	0	1
+"A.Depth"	6	0	0	1
+"A.Ratio"	6	0	0	1
+"PhasedGID"	10	1	1	0
+"A.Index"	6	1	1	0
+"RepeatTag"	8	1	1	0
+"Filter"	8	1	1	0
+"MIM Gene ID"	10	1	1	0
+"MIM Stat"	10	1	1	0
+"MIM Pheno IDs"	10	1	1	0
+"MIM Inheritance"	10	1	1	0
+"CGD Condition"	10	1	1	0
+"CGD Inheritance"	10	1	1	0
+"CGD Allelic Condition"	10	1	1	0
+"CGD Manifestation Categories"	10	1	1	0
+"CGD Intervention Categories"	10	1	1	0
+"CGD References"	10	1	1	0
+"TestCode"	8	0	0	1
+"EntrezGeneID"	8	1	1	0
+"Gene Symbol"	12	0	0	1
+"FuncRegion"	8	1	1	0
+"ExIn_ID"	8	0	0	1
+"pfamName"	10	1	1	0
+"pfamId"	8	1	1	0
+"Function"	10	0	0	1
+"Transcript"	12	0	0	1
+"Protein"	12	1	1	0
+"Strand"	6	1	1	0
+"Primary"	6	0	0	1
+"cHGVS"	10	0	0	1
+"pHGVS"	12	0	0	1
+"CodonChange"	10	1	1	0
+"PolarChange"	10	1	1	0
+"MutationName"	30	0	0	1
+"dbSNP Note"	15	1	2	0
+"dbSNP Allele Count"	15	1	2	0
+"dbSNP Allele Freq"	15	1	2	0
+"dbSNP Mul Tag"	15	1	1	1
+"1000G EAS AF"	15	0	0	1
+"1000G AF"	15	0	0	1
+"ESP6500 AC"	15	1	1	0
+"ESP6500 AF"	15	0	0	1
+"ExAC Filter"	15	1	1	0
+"ExAC EAS HomoAlt Count"	15	0	0	1
+"ExAC EAS AC"	15	1	1	0
+"ExAC EAS AF"	15	0	0	1
+"ExAC HomoAlt Count"	15	0	0	1
+"ExAC AC"	15	1	1	0
+"ExAC AF"	15	0	0	1
+"GAD EAS HomoAlt Count"	15	0	0	1
+"GAD EAS AC"	15	1	1	0
+"GAD EAS AF"	15	0	0	1
+"GAD HomoAlt Count"	15	0	0	1
+"GAD AC"	15	1	1	0
+"GAD AF"	15	0	0	1
+"rsID"	10	0	0	1
+"Panel ID"	10	1	1	0
+"Panel AlleleCount"	10	1	1	0
+"Panel AlleleFreq"	10	0	0	1
+"PhyloP Primates"	15	1	2	0
+"PhyloP Vertebrates"	15	1	2	0
+"PhyloP Placental Mammals"	15	1	1	1
+"Ens SIFT Score"	15	1	2	0
+"Ens Polyphen2HumVar Score"	15	1	2	0
+"Ens Polyphen2HumDiv Score"	15	1	2	0
+"Ens Condel Score"	15	1	2	0
+"Ens Condel Pred"	15	1	1	1
+"Cosmic MutName"	15	1	1	0
+"Cosmic Site"	15	1	1	0
+"Cosmic Histology"	15	1	1	0
+"Cosmic MutStat"	15	1	1	0
+"Cosmic ID"	15	0	0	1
+"HGMD ID"	12	1	1	0
+"HGMD MutName"	12	1	1	0
+"HGMD Disease"	12	1	1	0
+"HGMD pmID"	12	1	1	0
+"HGMD Pred"	12	0	0	1
+"ClinVar SuspectReason"	12	0	0	1
+"ClinVar ID"	12	0	0	1
+"ClinVar RevStat"	12	0	0	1
+"ClinVar Significant"	12	0	0	1
+"AutoInterpStatus"	10	0	0	1

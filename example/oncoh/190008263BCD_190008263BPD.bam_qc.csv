@@ -1,0 +1,68 @@
+item,cancer,normal
+Library name,HUMM190008263BPDCIB0AA-1610-cd3,HUMM190008263BCDNIA0AA-1618-cd3
+Target size (bp),1556575,1556575
+Read length (bp),70,70
+Template length,166 SD(-23/+30),193 SD(-44/+104)
+Average sequencing depth on target without duplicated reads,2229,543
+Median sequencing depth on target without duplicated reads,2306,556
+Mode sequencing depth on target without duplicated reads,2,627
+Average sequencing depth on target including duplicated reads,3363,579
+Fraction of effective bases on target (capture efficiency; without duplicated reads),27.93%,58.92%
+Fraction of effective bases on target (capture efficiency; including duplicated reads),27.93%,59.15%
+Effective bases on target (without duplicated reads),3469514996,845335622
+Effective bases on target (including duplicated reads),3469514996,900727409
+Total effective bases (without duplicated reads),12422342870,1434623470
+Fraction of mapped reads on target (including duplicated reads),27.66%,58.26%
+Mapped reads on target (including duplicated reads),49078773,12673060
+Mean GC content of reads mapped on target (without duplicated reads),50.31%,49.15%
+Mean GC content of reads mapped on target (with duplicated reads),50.31%,49.13%
+Total mapped reads (including duplicated reads),177462041,21753828
+Total reads pass low quality check,178125014,21847570
+Total reads (including unmapped reads),178125014,21847570
+Fraction of reads mapped to genome (mapping rate),99.63%,99.57%
+Fraction of effective reads over target,27.66%,58.03%
+Effective reads over target,49078773,11893022
+Total effective reads (without duplicated reads),177462041,20494621
+Fraction of uniquely mapped reads on target,29.00%,59.52%
+Uniquely mapped reads on target,48891405,11862192
+Total uniquely mapped reads,168612514,19928219
+Mismatch rate of effective reads on target,0.47%,0.34%
+Mismatch rate of all effective reads,0.55%,0.40%
+Mismatch rate of reads with dup on target,0.47%,0.36%
+Mismatch rate of all reads with dup,0.55%,0.41%
+Duplication rate of reads on target,33.72%,6.16%
+Duplication rate of all reads,33.72%,5.79%
+Template strand bias slope,0.98,0.82
+Template strand bias angle,44.46,39.33
+Fraction of target covered with >= 1x,99.79%,99.32%
+Fraction of target covered with >= 10x,99.32%,99.31%
+Fraction of target covered with >= 20x,99.31%,99.31%
+Fraction of target covered with >= 30x,99.31%,99.30%
+Fraction of target covered with >= 50x,99.31%,99.29%
+Fraction of target covered with >= 100x,99.30%,99.23%
+Fraction of target covered with >= 200x,99.27%,98.40%
+Fraction of target covered with >= 300x,99.23%,93.68%
+Fraction of target covered with >= 500x,99.03%,60.94%
+Fraction of target covered with >= 1000x,95.84%,0.16%
+Fraction of target covered with >= 2000x,64.07%,0.02%
+Fraction of target covered with >= 3000x,11.59%,0.00%
+Fraction of target covered with >= 5000x,0.12%,0.00%
+Fraction of target covered with >= 0.2 mean depth,99.11%,99.22%
+Fraction of target covered with >= 0.5 mean depth,94.15%,95.77%
+Fraction of target covered with >= 0.8 mean depth,73.23%,72.92%
+Fraction of target covered with >= 1.0 mean depth,53.75%,52.57%
+Fraction of target covered with >= 1.2 mean depth,28.50%,27.04%
+Contamination Ratio,0.0245%,0.0022%
+Sample Pair Check,Yes,Yes
+Reads count (on target),42872563,-
+Clusters count (on target),28023976,-
+Pair reads/All reads (1+1),0.280870145319,-
+Pair clusters/All clusters (1+1),0.160021547264,-
+Pair clusters/All reads (effective rates),0.104599298157,-
+Muti reads/All reads (2+0),0.5848495925,-
+Muti clusters/All clusters (2+0),0.364880914828,-
+Good support reads/All reads (2+1),0.16784704474,-
+Good support clusters/All clusters (2+1),0.0735671840427,-
+Peak Family,1,-
+Mean DDP of target region,148.3,-
+Mean HQDDP of target region,130.4,-

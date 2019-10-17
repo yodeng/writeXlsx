@@ -1,0 +1,7 @@
+[SmallVariations]
+"{1000G AF}" {@@} {x < 0.01 || x == "."}
+"{ExAC AF}"{@@}{x < 0.01 || x == "."}
+"{Panel AlleleFreq}"{@@}{x < 0.03 || x == "."}
+"{A.Depth}"{@@}{x > 20}
+"{A.Ratio}"{@@}{x > 0.2}
+"{TestCode}"{@@}{x != "."}

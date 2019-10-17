@@ -1,0 +1,13 @@
+[call_sv]
+"{AutoInterpretation}"{##}{( 'G', 'HN', 'H', 'YN', 'Y' )}
+
+[norm_sv]
+"{AutoInterpretation}"{##}{( 'G', 'HN', 'H', 'YN', 'Y' )}
+
+[ContraCNV]
+"{AutoInterpretation}" {##}{( 'H', 'R', 'Y' )}
+
+[SmallVariations]
+"{AutoInterpStatus}" {@@} {x != N}
+
+
